@@ -45,7 +45,8 @@ Gestiona los estados de una orden y define su comportamiento según el estado ac
 RestaurantPatternSystem.java
 ├── Order (interfaz)
 ├── ChickenOrder
-├── OrderBuilder / ChickenOrderBuilder
+├── OrderBuilder 
+├── ChickenOrderBuilder
 ├── OrderDirector
 ├── OrderDecorator
 ├── RiceDecorator
